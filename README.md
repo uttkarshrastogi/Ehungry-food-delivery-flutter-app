@@ -1,6 +1,6 @@
-# soothing
+# Ehungry
 
-A new Flutter project.
+This is a flutter app which 
 
 ## Getting Started
 
