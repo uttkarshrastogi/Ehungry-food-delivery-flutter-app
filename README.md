@@ -1,6 +1,8 @@
 # Ehungry
 Ehungry app is all you need for your food cravings. Ehungry app has mouth-watering food with beautiful UI. It is visually stunning made by using the latest flutter framework easy-to-use user-friendly interface and eye-candy colors made just for you.
 
+To watch app intro head to -https://youtu.be/dg3ChbL9nlo
+
 
 
 ## Getting Started
