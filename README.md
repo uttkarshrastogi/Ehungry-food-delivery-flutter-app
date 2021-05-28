@@ -29,7 +29,7 @@ Ehungry app is all you need for your food cravings. Ehungry app has mouth-wateri
 
 
 
-5.This is the my cart screen in which all the added items are shown at the bottom estimated time can be seen which changes dynamically as you add more items also you can see the total cost here
+5.This is the my cart screen in which all the added items are shown at the bottom estimated time can be seen which changes dynamically as you add more items also you can see the total cost here in addition you can also delete item by pressing the delete icon on each row.
 
 
 <img src="https://github.com/uttkarshrastogi/Ehungry-food-delivery-flutter-app/blob/master/Screenshots/IMG_7255.PNG" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
