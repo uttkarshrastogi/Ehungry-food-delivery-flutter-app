@@ -2,15 +2,15 @@ import 'package:flutter/material.dart';
 import 'package:soothing/data/data.dart';
 import 'package:soothing/screens/landingPage.dart';
 
-class Finalscreen extends StatefulWidget {
+class abcScreen extends StatefulWidget {
   double cost = 0.00;
-  Finalscreen({Key key, this.cost}) : super(key: key);
+  abcScreen({Key key, this.cost}) : super(key: key);
 
   @override
-  _FinalscreenState createState() => _FinalscreenState();
+  _abcScreenState createState() => _abcScreenState();
 }
 
-class _FinalscreenState extends State<Finalscreen> {
+class _abcScreenState extends State<abcScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(

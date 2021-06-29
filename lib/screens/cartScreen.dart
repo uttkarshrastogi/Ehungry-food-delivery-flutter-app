@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:soothing/data/data.dart';
-import 'package:soothing/screens/Finalscreen.dart';
+import 'package:soothing/screens/abcScreen.dart';
 
 import 'Foodscreen.dart';
 
@@ -320,7 +320,7 @@ class _cartScreenState extends State<cartScreen> {
                               Navigator.push(
                                 context,
                                 MaterialPageRoute(
-                                  builder: (_) => Finalscreen(cost: cost),
+                                  builder: (_) => abcScreen(cost: cost),
                                 ),
                               );
                             },
